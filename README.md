@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Michele, and my enthusiasm for Cloud Computing led me to become a Cloud DevOps Engineer. I am driven to succeed in collaborative environments by my determination to learn and develop.
-Actively, evolving my skills in cloud environment, automation, CI/CD, Linux, and Python.
+I am Michele, my enthusiasm for Cloud Computing led me to become a Cloud DevOps Engineer. I am driven to succeed in collaborative environments by my determination to learn and develop.
+Actively, evolving my skills in cloud environment, automation, CI/CD, scripts and more.
 
 Find out more about me & feel free to connect with me here:
 
